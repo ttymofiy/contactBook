@@ -1,2 +1,2 @@
 # contactBook
-just a simple puthon console app to make your own contact book))
+just a simple python console app to make your own contact book))
